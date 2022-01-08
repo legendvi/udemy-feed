@@ -1,0 +1,5 @@
+{
+  "env": {
+    "MONGO_URL": "mongodb+srv://dvignesh3:dvignesh3@cluster0.zbefi.mongodb.net/messages?retryWrites=true&w=majority"
+  }
+}
